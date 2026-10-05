@@ -1,1 +1,3 @@
 "Name:{Tuna Bindal}"
+"Universty:PJATK"
+Student id:{s38345}
